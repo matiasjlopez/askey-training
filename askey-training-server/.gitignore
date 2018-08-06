@@ -1,0 +1,35 @@
+logs
+target
+build
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/.gradle
+/RUNNING_PID
+
+# general
+*~
+*.log
+tmp
+dump
+
+logs
+*.iml
+.idea
+.idea_modules
+.vscode
+RUNNING_PID
+generated.keystore
+generated.truststore
+*.log
+
+
+# SBT
+dist
+project/boot
+project/target
+project/plugins/target
+target
+.target
